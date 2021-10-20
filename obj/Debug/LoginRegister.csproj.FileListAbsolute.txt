@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Form1.resources
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Home.resources
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Login.resources
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\hp\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.pdb
